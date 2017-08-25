@@ -1,0 +1,25 @@
+{
+  "name": "hxy",
+  "version": "0.0.1",
+  "description": "A <head> HTML  tool to template metadata tags for homepages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colohr/hxy.git"
+  },
+  "keywords": [
+    "HTML Head",
+    "metadata",
+    "meta",
+    "Homepage"
+  ],
+  "author": "colohr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colohr/hxy/issues"
+  },
+  "homepage": "https://github.com/colohr/hxy#readme"
+}
