@@ -1,0 +1,52 @@
+{
+  "company":{
+    "contact":{
+      "email":"contact@email.com",
+      "extension":null,
+      "fax":null,
+      "person":null,
+      "phone":"555-124-4567",
+      "website":null
+    },
+    "category":"Company Category",
+    "location":{
+      "city":"City",
+      "country":"United States",
+      "county":"County",
+      "number":1,
+      "street":"Street Name",
+      "street_extra":null,
+      "zip":12234,
+      "state":"CA"
+    },
+    "name":"Company Name",
+    "type":"Type of Company Business"
+  },
+  "facebook":{
+    "title":"Special Offers",
+    "image":"facebook-image",
+    "site_name":"Company"
+  },
+  "twitter":{
+    "card":"summary"
+  },
+  "description":"My website is about...",
+  "elements":"custom-elements",
+  "favicon":"graphics/favicon.icon",
+  "fragments":"custom-elements/pages",
+  "graphics":"graphics",
+  "google":{
+    "fonts":"https://fonts.googleapis.com/css?family=Alice|Dancing+Script:400,700|Domine:400,700|Fjalla+One|Neuton:200,300,400,400i,700,800|Palanquin+Dark:400,500,600,700|Playfair+Display:400,400i,700,700i,900,900i",
+    "site":{
+      "verification":"google-verification"
+    }
+  },
+  "icons":"graphics/manifest",
+  "modules":"modules",
+
+  "style":"<style> body { margin: 0; font-family: 'Playfair Display', serif; font-size: 16px; letter-spacing: 0.023em; font-weight: normal; line-height: 1.5; min-height: 100vh; color:#393534; background-color: #ffffff; } </style>",
+  "tag":"va11y-app",
+  "title":"VA11Y",
+  "url":"http://www.mywebsite.com/",
+  "wwi":{}
+}

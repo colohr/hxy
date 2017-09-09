@@ -1,0 +1,35 @@
+
+type WorldContinent{
+    id: ID
+    name: Text
+}
+
+type WorldCountry{
+    id: ID
+    capital: Text
+    currency: WorldCurrency
+    continent: WorldContinent
+    emoji: Emoji
+    name: Text
+    native: Text
+    phone: ID
+    language: NaturalLanguage
+    languages: [ID]
+}
+
+type WorldCurrency{
+    id: ID
+    symbol: Text
+}
+
+type WorldLanguage{
+    id: ID
+    name: Text
+    native: Text
+    direction: WorldLanguageDirection
+}
+
+enum WorldLanguageDirection{
+    rtl,
+    ltr
+}

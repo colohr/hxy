@@ -1,0 +1,7 @@
+scalar EmojiCode
+
+type Emoji{
+    name: Text
+    character: Text
+    code: EmojiCode
+}
