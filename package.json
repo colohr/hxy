@@ -23,6 +23,11 @@
   },
   "homepage": "https://github.com/colohr/hxy#readme",
   "dependencies": {
+    "calipers": "^2.0.0",
+    "calipers-gif": "^2.0.0",
+    "calipers-jpeg": "^2.0.0",
+    "calipers-png": "^2.0.0",
+    "calipers-svg": "^2.0.0",
     "fxy": "^0.1.66"
   },
   "devDependencies": {
