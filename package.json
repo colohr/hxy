@@ -1,6 +1,6 @@
 {
   "name": "hxy",
-  "version": "0.0.1",
+  "version": "0.0.11",
   "description": "A <head> tool to template metadata tags for homepages.",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,7 @@
     "calipers-jpeg": "^2.0.0",
     "calipers-png": "^2.0.0",
     "calipers-svg": "^2.0.0",
-    "fxy": "^0.1.66"
+    "fxy": "^0.1.67"
   },
   "devDependencies": {
     "punycode": "^2.1.0"
